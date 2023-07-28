@@ -1,0 +1,102 @@
+body{
+	font-family: " PT san ",sans-serif;
+	background-color: rgb(15,1,17);
+	margin: 1;
+	color :rgb(139,114,141);
+	line-height:1.9;}
+ nav a{
+	text-decoration: none;
+	color: rgb(207,198,210);
+}
+#showcase{
+	margin: 0;
+	padding: 0;
+	background: url('data:image/jpeg;base64,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') no-repeat center/cover;
+
+    height: 100vh;
+    position: relative;
+    overflow-y:hidden;
+}
+#showcase .container{
+	margin-top: 25vh;
+}
+#showcase h1 {
+	font-size: 4rem;
+	margin-bottom: 0;
+}
+#showcase h2{
+	font-size: 2rem;
+
+}
+nav{
+	width: 100%;
+	height:35px;
+	background-color:black;
+	color: rgb(54,34,34);
+	position: fixed;
+}
+nav ul{
+	margin: 0;
+	padding: 0;
+}
+nav li{
+	display: inline;
+	float: left;
+}
+nav a {
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+	padding: 2px 0px;
+	text-decoration: none;
+	color: #eee;
+}
+
+nav li:hover{
+	background-color: rgb(131,124,131);
+}
+.container{
+	max-width: 1180px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 3rem;
+	text-decoration: none;
+}
+.lead{
+	font-size: 1.5rem;
+}
+footer .footer-cols{
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: repeat(4,1fr);
+	padding: 2rem;
+	text-align: left;
+	font-size: 14px;
+	text-decoration: none;
+
+}
+footer .footer-cols  ul{
+	list-style: none;
+	text-decoration: none;
+	
+}
+
+footer .footer-cols  ul li:first-child{
+	font-size: 1.5rem;
+	padding-bottom: 0.5rem;
+	border-bottom: #444 solid 2px;
+	margin-bottom: 1rem;
+}
+
+footer .footer-bottom {
+	background-color: #333;
+	padding: 1rem;
+	text-align: center;
+}
+.history{
+	text-align: left;
+
+
+}
+.history:hover{	color:  white;
+}
